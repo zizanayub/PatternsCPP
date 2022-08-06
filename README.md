@@ -6,7 +6,6 @@ programming languages.
 
 Here is the list of all patterns I have added in this repository. 
 
-1. 1 2 3 4
-   1 2 3 4
-   1 2 3 4
-   1 2 3 4
+
+https://docs.google.com/document/d/1UXk3T8_U3ApAIhVtB-doQBji13a5vkqeh3_6RC2YmWA/edit?usp=sharing
+
